@@ -1,6 +1,7 @@
 # CALC
 [PROGRAM 01 WAP to make a calculator](#code1)
 [PROGRAM 02 WAP to check the age is valid or not](#code2)
+[PROGRAM 03 WAP to add two distances]
 ## code1
 ```
 
