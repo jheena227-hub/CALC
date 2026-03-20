@@ -54,7 +54,7 @@ public  static void main(String[] args) {
 ```
 <img width="819" height="205" alt="Screenshot 2026-02-20 123333" src="https://github.com/user-attachments/assets/d70ef64c-4c28-4f8e-baf2-5485817b61e3" />
 
-##code3
+## code3
 ```
 public static void main(String args[])
     {
