@@ -56,13 +56,45 @@ public  static void main(String[] args) {
 
 ## code3
 ```
-public static void main(String args[])
+class Distance
+{
+    int h,m,s;
+    Distance()
+    {
+
+    }
+    Distance(int hr,int min,int sec)
+    {
+        h=hr;
+        m=min;
+        s=sec;
+    }
+    void add(Distance d1,Distance d2)
+    {
+        s=d1.s+d2.s;
+        m=d1.m+d2.m+s/60;
+        h=d1.h+d2.h+m/60;
+        m=m%60;
+        s=s%60;
+    }
+    void display()
+    {
+        System.out.println(h+":"+m+":"+s);
+    }
+}
+
+class distancedemo
+{
+    public static void main(String args[])
     {
         Distance d1=new Distance(3,02,40);
         Distance d2=new Distance(4,55,60);
         Distance result=new Distance();
         result.add(d1,d2);
         result.display();
+
+
     }
+}
 ```
 <img width="473" height="66" alt="image" src="https://github.com/user-attachments/assets/6da54077-abe6-4755-8723-d0175d05fda0" />
