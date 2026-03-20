@@ -55,10 +55,8 @@ public  static void main(String[] args) {
 <img width="819" height="205" alt="Screenshot 2026-02-20 123333" src="https://github.com/user-attachments/assets/d70ef64c-4c28-4f8e-baf2-5485817b61e3" />
 
 ##code3
-
-'''
-
-    public static void main(String args[])
+```
+public static void main(String args[])
     {
         Distance d1=new Distance(3,02,40);
         Distance d2=new Distance(4,55,60);
@@ -66,6 +64,5 @@ public  static void main(String[] args) {
         result.add(d1,d2);
         result.display();
     }
-
-'''
+```
 <img width="473" height="66" alt="image" src="https://github.com/user-attachments/assets/6da54077-abe6-4755-8723-d0175d05fda0" />
