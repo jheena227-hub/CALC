@@ -25,7 +25,7 @@
 [program-25 WAP for a Java program to perform file copying using byte stream without using character stream.](#code25)
 [program-26 WAP for a Java Swing application for a Registration Form including various GUI components like JTextField, JPasswordField, JRadioButton, JCheckBox, JComboBox, and JButton. Display a success message on form submission.](#code26)
 [program-27 WAP for a Java program to write data into a file using FileOutputStream and then read and display the same data using FileInputStream (Byte Stream File Handling).](#code27)
-## Assi-1
+## code1
 ```
 class Arithmetic {
     int a = 10, b = 5;
