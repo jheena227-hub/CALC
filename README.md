@@ -44,7 +44,7 @@ class Arithmetic {
 
 <img width="594" height="185" alt="image" src="https://github.com/user-attachments/assets/681015d1-13aa-4480-b07a-222354312a75" />
 
-## Assi-2
+## code2
 ```
 class Distance {
     int m, cm, mm;
@@ -76,7 +76,7 @@ class Distance {
 
 <img width="630" height="120" alt="image" src="https://github.com/user-attachments/assets/eee6122d-4d6a-436b-ac78-4b2406f22b61" />
 
-## Assi-3
+## code3
 ```
 class DistanceTest {
     int m, cm;
@@ -99,7 +99,7 @@ class DistanceTest {
 
 <img width="627" height="116" alt="image" src="https://github.com/user-attachments/assets/6a71736e-79ce-4d04-b03e-8ed43be66f2c" />
 
-## Assi-4
+## code4
 ```
 class TimeFull {
     int h, m, s;
@@ -123,7 +123,7 @@ class TimeFull {
 
 <img width="595" height="123" alt="image" src="https://github.com/user-attachments/assets/5fadfad1-a9c5-4c53-afb2-61823f8df17c" />
 
-## ASSI-5
+## code5
 ```
 class TimeHM {
     int h, m;
@@ -146,7 +146,7 @@ class TimeHM {
 
 <img width="589" height="118" alt="image" src="https://github.com/user-attachments/assets/aaaa9f35-4e45-44b4-8aa2-af296db913e2" />
 
-## Assi-6(a)
+## code6
 ```
 #include <stdio.h>
 
@@ -162,7 +162,6 @@ int main() {
 
 <img width="677" height="121" alt="image" src="https://github.com/user-attachments/assets/c5d0eae3-0f91-4e60-bd70-cc1cc7a6e5b5" />
 
-6(b)
 ```
 #include <stdio.h>
 
@@ -187,7 +186,7 @@ int main() {
 
 <img width="661" height="126" alt="image" src="https://github.com/user-attachments/assets/f6901ef1-a149-4344-be1f-40834166b6be" />
 
-6(c)
+
 ```
 #include <stdio.h>
 
@@ -210,7 +209,6 @@ int main() {
 
 <img width="695" height="119" alt="image" src="https://github.com/user-attachments/assets/470678a8-58c0-472b-a78f-780814619eee" />
 
-6(d)
 ```
 #include <stdio.h>
 
@@ -232,7 +230,7 @@ int main() {
 
 <img width="657" height="114" alt="image" src="https://github.com/user-attachments/assets/315f7133-45a6-4214-bf3a-28a8b2f2bc31" />
 
-6(e)
+
 ```
 #include <stdio.h>
 
@@ -249,7 +247,7 @@ int main() {
 
 <img width="661" height="216" alt="image" src="https://github.com/user-attachments/assets/66319966-16e2-47c9-96a1-8d56ebc0ab2b" />
 
-## Assi-7
+## code7
 ```
 class Array1D {
     int arr[] = {10, 20, 30, 40, 50};
