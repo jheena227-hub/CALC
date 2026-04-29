@@ -275,7 +275,7 @@ class Array1D {
 
 <img width="615" height="142" alt="image" src="https://github.com/user-attachments/assets/8ee4b3e7-12c4-43c1-be66-9e09f3bff8dd" />
 
-## Assi-8
+## code8
 ```
 class MatrixOps {
     int[][] a = {{1,2,3},{4,5,6},{7,8,9}};
@@ -333,7 +333,7 @@ class MatrixOps {
 
 <img width="589" height="401" alt="image" src="https://github.com/user-attachments/assets/7031e402-890d-4775-90b1-00d0f94d9d1f" />
 
-## Assi-9
+## code9
 ```
 class A extends Thread {
     public void run() {
@@ -371,7 +371,7 @@ class ThreadDemo {
 
 <img width="599" height="807" alt="image" src="https://github.com/user-attachments/assets/5a7b2328-2289-4d8e-9a84-4297a6fae7de" />
 
-## Assi-10
+## code10
 ```
 class A extends Thread {
     public void run() {
@@ -414,7 +414,7 @@ class ThreadJoin {
 
 <img width="644" height="756" alt="image" src="https://github.com/user-attachments/assets/d950fb82-2792-4936-bb81-60ece7c55e20" />
 
-## Assi-11
+## code11
 ```
 import javax.swing.*;
 import java.awt.event.*;
@@ -451,7 +451,7 @@ class AddSwing {
 
 <img width="350" height="358" alt="image" src="https://github.com/user-attachments/assets/306cca18-35f4-4f9d-b7b8-e2c3599cc24b" />
 
-## Assi-12
+## code12
 ```
 import javax.swing.*;
 import java.awt.event.*;
@@ -546,7 +546,7 @@ public class RegisterForm {
 
 <img width="523" height="657" alt="image" src="https://github.com/user-attachments/assets/bb839c2c-9771-47bd-88de-7227b5472fba" />
 
-## Assi-13
+## code13
 ```
 import javax.swing.*;
 import java.awt.event.*;
@@ -661,7 +661,7 @@ public class Calculator {
 <img width="362" height="414" alt="image" src="https://github.com/user-attachments/assets/9e4a37fb-91ee-449d-bad8-fb9d289740ac" />
 
 
-## Assi-14
+## code14
 ```
 import javax.swing.*;
 import java.awt.event.*;
@@ -708,7 +708,7 @@ class MatrixSwing {
 
 <img width="353" height="363" alt="image" src="https://github.com/user-attachments/assets/a5f9ac03-959a-47f2-866a-8be82e19f660" />
 
-## Assi-15
+## code15
 ```
 import javax.swing.*;
 import java.awt.event.*;
@@ -741,7 +741,7 @@ class ShapeButtons {
 
 <img width="621" height="157" alt="image" src="https://github.com/user-attachments/assets/d141e979-b883-4a85-b1b1-5c7baa266c8e" />
 
-## Assi-16
+## code16
 ```
 import javax.swing.*;
 import java.awt.event.*;
@@ -777,7 +777,7 @@ class ShapeButtons {
 <img width="621" height="157" alt="image" src="https://github.com/user-attachments/assets/b8f177c6-d9d7-4d32-816d-6fb3489a28d4" />
 
 
-## Assi-17
+## code17
 ```
 import javax.swing.*;
 import java.awt.*;
@@ -813,7 +813,7 @@ class PaintBrush extends JFrame {
 
 <img width="470" height="479" alt="image" src="https://github.com/user-attachments/assets/cc4ec760-2822-47d0-829d-19a09e4728a6" />
 
-## Assi-18
+## code18
 ```
 class ExceptionDemo {
     public static void main(String[] args) {
@@ -836,7 +836,7 @@ class ExceptionDemo {
 
 <img width="633" height="137" alt="image" src="https://github.com/user-attachments/assets/1469ad7a-9205-49dc-8699-eaa1a91abd5a" />
 
-## Assi-19
+## code19
 ```
 class AgeException extends Exception {
     AgeException(String msg) {
@@ -864,7 +864,7 @@ class TestAge {
 
 <img width="650" height="115" alt="image" src="https://github.com/user-attachments/assets/a720e3fc-40ec-4f17-a8e5-6ef74e9f386d" />
 
-## Assi-20
+## code20
 ```
 import java.io.*;
 
@@ -891,7 +891,7 @@ class FileHandling {
 
 <img width="642" height="123" alt="image" src="https://github.com/user-attachments/assets/f1efb52f-c20f-4304-ae55-33d246c4a909" />
 
-## Assi-21
+## code21
 ```
 interface A {
     void show();
@@ -921,7 +921,7 @@ class InheritanceDemo {
 ```
 <img width="644" height="139" alt="image" src="https://github.com/user-attachments/assets/c5e6d14b-229d-4762-b0eb-fbc9bef79481" />
 
-## Assi-22
+## code22
 ```
 import java.io.*;
 
@@ -955,7 +955,7 @@ public class charFilecopy {
 ```
 <img width="625" height="132" alt="image" src="https://github.com/user-attachments/assets/a5f1e782-3997-4817-b22d-9820d7fbe1ff" />
 
-## Assi-23
+## code23
 ```
 import java.io.*;
 
@@ -990,7 +990,7 @@ public class byteFilecopy {
 ```
 <img width="629" height="131" alt="image" src="https://github.com/user-attachments/assets/6a01ee96-cdf5-4a76-8d11-ed2d54ecd8aa" />
 
-## Assi-24
+## code24
 ```
 import java.io.*;
 
@@ -1024,7 +1024,7 @@ public class CharCopy {
 ```
 <img width="576" height="116" alt="image" src="https://github.com/user-attachments/assets/a5451d6a-112f-4705-904e-8c82563f34c4" />
 
-## Assi-25
+## code25
 ```
 import java.io.*;
 
@@ -1052,7 +1052,7 @@ public class ByteCopy {
 ```
 <img width="597" height="119" alt="image" src="https://github.com/user-attachments/assets/f6a0976c-ebe6-4225-9d9c-659b5bea390d" />
 
-## Assi-26
+## code26
 ```
 import javax.swing.*;
 import java.awt.event.*;
@@ -1146,7 +1146,7 @@ public class RegisterForm {
 ```
 <img width="641" height="129" alt="image" src="https://github.com/user-attachments/assets/ef1859c9-e185-4643-a716-fdc96391ae39" />
 
-## Assi-27
+## code27
 ```
 import java.io.*;
 
